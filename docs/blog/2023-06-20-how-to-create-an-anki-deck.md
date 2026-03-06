@@ -2,7 +2,9 @@
 title: "How to Create an Anki Deck"
 date: 2023-06-20
 tags:
-	- blog
+  - blog
+hide:
+  - navigation
 ---
 
 # How to Create an Anki Deck

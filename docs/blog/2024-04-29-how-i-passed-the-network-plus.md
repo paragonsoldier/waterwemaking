@@ -2,7 +2,9 @@
 title: "How I Passed the Network+"
 date: 2024-04-29
 tags:
-	- blog
+  - blog
+hide:
+  - navigation
 ---
 
 # How I Passed the Network+

@@ -2,7 +2,9 @@
 title: "Troubleshooting Wi-Fi Issues for Arch Linux on Macbook Pro"
 date: 2025-03-18
 tags:
-	- blog
+  - blog
+hide:
+  - navigation
 ---
 
 # Troubleshooting Wi-Fi Issues for Arch Linux on Macbook Pro

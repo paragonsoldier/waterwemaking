@@ -2,7 +2,9 @@
 title: 'Troubleshooting the "Monitor: Unknown" Error in Linux'
 date: 2023-07-17
 tags:
-	- blog
+  - blog
+hide:
+  - navigation
 ---
 
 # Troubleshooting the "Monitor: Unknown" Error in Linux

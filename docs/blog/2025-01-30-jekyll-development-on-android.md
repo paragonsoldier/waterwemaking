@@ -2,7 +2,9 @@
 title: "Jekyll Development on Android"
 date: 2025-01-30
 tags:
-	- blog
+  - blog
+hide:
+  - navigation
 ---
 
 # Jekyll Development on Android
