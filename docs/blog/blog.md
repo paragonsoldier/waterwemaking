@@ -10,7 +10,7 @@ Welcome to the Water We Making blog.
 
 ## 2025
 
-- 2025‑03‑18 — [Troubleshooting Wi‑Fi Issues for Arch Linux on MacBook Pro](2025-03-18-troubleshooting-wi-fi-issues-for-arch-linux-on-macbook-pro.md)
+- 2025‑03‑18 — [Troubleshooting Wi‑Fi Issues for Arch Linux on MacBook Pro](/posts/2025-03-18-troubleshooting-wi-fi-issues-for-arch-linux-on-macbook-pro.md)
 - 2025‑02‑04 — [How to Setup the Ultimate Portable Pokémon Console](2025-02-04-how-to-setup-the-ultimate-portable-pokémon-console.md)
 - 2025‑01‑30 — [Jekyll Development on Android](2025-01-30-jekyll-development-on-android.md)
 

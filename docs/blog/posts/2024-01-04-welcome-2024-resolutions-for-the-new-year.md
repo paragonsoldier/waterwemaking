@@ -3,8 +3,6 @@ title: "Welcome 2024! | Resolutions for the New Year"
 date: 2024-01-04
 tags:
   - blog
-hide:
-  - navigation
 ---
 
 # Welcome 2024! | Resolutions for the New Year

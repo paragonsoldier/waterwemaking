@@ -3,8 +3,6 @@ title: "How to Setup the Ultimate Portable Pokémon Console"
 date: 2025-02-04
 tags:
   - blog
-hide:
-  - navigation
 ---
 
 # How to Setup the Ultimate Portable Pokémon Console
